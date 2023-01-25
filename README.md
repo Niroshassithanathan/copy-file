@@ -30,7 +30,7 @@ Step 6:
 ## Developed by:NIROSHA.S
 ## Reference number:22009078
 
-with open('lines.txt','r') as file1:
+with open('python.py','r') as file1:
     with open('text.txt','w') as file2:
         for line in file1:
             file2.write(line)
