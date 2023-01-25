@@ -36,7 +36,7 @@ with open('lines.txt','r') as file1:
             file2.write(line)
 ```
 ### OUTPUT:
-![](file1.jpg)
+
 ![](file2.jpg)
 
 ## RESULT:
