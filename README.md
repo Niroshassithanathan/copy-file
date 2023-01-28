@@ -37,7 +37,9 @@ with open('python.py','r') as file1:
 ```
 ### OUTPUT:
 
-![](file2.jpg)
+
+![copy copy](https://user-images.githubusercontent.com/121418437/215252274-b2103aa2-add7-48f7-b2b4-3373d422da81.PNG)
+
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
